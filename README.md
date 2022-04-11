@@ -5,16 +5,16 @@
 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 </a>
-  <img align="left" alt="CSS" width="75px" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
+  <img align="left" alt="CSS"  src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
 </a>
 <a href="#">
-  <img align="left" alt="Javascript" width="75px" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+  <img align="left" alt="Javascript"  src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
 </a>
 <a href="#">
-  <img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="NextJs" width="22px" src="" />
+  <img align="left" alt="NextJs"  src="" />
 </a>
 
 <br />
