@@ -14,7 +14,7 @@
   <img align="left" alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="NextJs"  src="" />
+
 </a>
 
 <br />
