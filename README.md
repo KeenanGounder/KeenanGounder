@@ -1,13 +1,13 @@
 # Hi there, I'm Keenan <img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## I'm a IT Student 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 I’m currently studying Information Technology.
+- 📚 I’m currently working on web development technologies like JavaScript, React etc.
+- 💪🏼 Aspiring Software engineer.
+- ⚡ Fun fact: Every 60 seconds in Africa a minute passess.
 
 ---
 
