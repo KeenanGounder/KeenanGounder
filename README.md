@@ -1,8 +1,8 @@
 # Hi there, I'm Keenan <img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
 
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-## I'm a IT Student 
+## I'm an IT Student 
 
 - 👨‍💻 I’m currently studying Information Technology.
 - 📚 I’m currently working on web development technologies like JavaScript, React etc.
