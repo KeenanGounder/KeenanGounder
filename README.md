@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-## I'm a Information Technology Student 
+## I'm a IT Student 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 
