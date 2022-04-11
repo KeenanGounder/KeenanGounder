@@ -8,7 +8,7 @@
   <img align="left" alt="CSS" width="100px" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
 </a>
 <a href="#">
-  <img align="left" alt="Javascript" height="25px" width="100px" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+  <img align="left" alt="Javascript" height="50px" width="100px" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
 </a>
 <a href="#">
   <img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
